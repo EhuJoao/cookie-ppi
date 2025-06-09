@@ -1,0 +1,18 @@
+{
+  "name": "cookies-login",
+  "version": "1.0.0",
+  "description": "trabalho cookies",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Joao Pedro Alves",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express": "^5.1.0",
+    "express-session": "^1.18.1"
+  }
+}
